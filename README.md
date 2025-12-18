@@ -1,89 +1,89 @@
+<!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:203A43&height=140&section=header&text=MOHAMMED%20AYAZ&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:203A43&height=160&section=header&text=MOHAMMED%20AYAZ&fontSize=40&fontColor=ffffff" />
 </p>
 
+<!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00E5FF&center=true&vCenter=true&width=720&lines=Computer+Science+Engineering+Student;Software+Engineering+%7C+DSA+%7C+Systems+Thinking;Building+Scalable+Applications;Preparing+for+FAANG-Level+Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=8AB4F8&center=true&vCenter=true&width=720&lines=Computer+Science+Engineering+Student;Software+Engineering+%7C+DSA+%7C+Systems;Full-Stack+Developer;Preparing+for+FAANG-Level+Roles" />
 </p>
 
+<!-- VISITOR COUNTER -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0F2027&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=mohammedayaz24&label=Profile%20Views&color=203A43&style=flat" />
 </p>
 
 ---
 
 ## 👨‍💻 Engineering Profile
 
-I am a **Computer Science Engineering student** focused on **core software engineering fundamentals**:
-- **Data Structures & Algorithms**
-- **Clean code and problem decomposition**
-- **Backend systems and APIs**
-- **Scalable application design**
-
-I actively build projects that reflect **real engineering constraints** such as time, performance, and maintainability—rather than tutorial-style demos.
+I am a **Computer Science Engineering student** focused on **core software engineering fundamentals**—problem solving, clean architecture, and scalable system design.  
+I prioritize **execution over theory** and build projects that reflect **real-world constraints**.
 
 ---
 
-## 🎯 What I Bring as an Engineer
+## 🎯 What I Deliver
 
-- Strong **problem-solving mindset** grounded in DSA
-- Ability to **design and implement end-to-end features**
-- Experience building **working systems under pressure** (hackathons)
-- Clear communication of **technical trade-offs and decisions**
-- Bias toward **execution, readability, and correctness**
+- Clean, responsive **frontend interfaces**
+- Well-structured, extensible **backend APIs**
+- **AI-assisted features** integrated into applications
+- Rapid **prototype-to-product execution**
+- Clear technical reasoning and communication
 
 ---
 
-## 🧠 Core Technical Skills
+## 🛠 Technical Skills
 
 ### Programming
-- **Java** — DSA, OOP, algorithmic problem solving
-- **Python** — data handling, automation, ML foundations
-- **JavaScript** — frontend logic
+- **Java** — DSA, OOP, algorithms
+- **Python** — data processing, automation
+- **JavaScript**
 
 ### Frontend
 - **HTML5, CSS3**
 - **React**
-- Responsive and accessible UI practices
 
-### Backend
+### Backend & Cloud
 - **FastAPI**
 - **Firebase (Auth, Firestore)**
-- RESTful API design principles
 
-### Data / AI (Foundational)
+### Data / AI
 - **Pandas, NumPy**
 - **Matplotlib**
-- Introductory ML & transformer concepts (integration-level)
+- ML & transformer fundamentals
 
 ### Tools
 - **Git & GitHub**
 - **VS Code**
-- Linux fundamentals
+- Linux basics
 
 ---
 
-## 🚀 Selected Projects (Engineering-Focused)
+## 🚀 Selected Projects
 
-### AvengerCore — AI-Assisted Fraud Detection
+### 🛡 AvengerCore — AI-Assisted Fraud Detection
 **Stack:** React Native · FastAPI · Transformers  
-- Real-time detection of scam messages and risky apps  
-- Risk scoring pipeline with explainable alerts  
-- Built with modular backend architecture for extension  
 
-### Inside_Ambur — Scalable Community Platform
-**Stack:** React Native · Firebase  
-- Multi-feature application: businesses, events, utilities  
-- Designed with monetization and scalability in mind  
-- Emphasis on data structure, flow, and maintainability  
+- Scam detection for messages and apps  
+- Risk scoring with explainable alerts  
+- Modular backend architecture  
+
+---
+
+### 🖨️ PrintMate — Smart Printing Platform
+**Stack:** React · Firebase  
+
+- Online print order management system  
+- Document upload, print configuration, and tracking  
+- Designed for campus and small businesses  
 
 ---
 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="155"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="155"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammedayaz24&show_icons=true&theme=tokyonight&hide_border=true" height="155"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedayaz24&theme=tokyonight&hide_border=true" height="155"/>
 </p>
 
 ---
@@ -91,7 +91,7 @@ I actively build projects that reflect **real engineering constraints** such as 
 ## 🐍 Contribution Consistency
 
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/mohammedayaz24/mohammedayaz24/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -103,12 +103,13 @@ I actively build projects that reflect **real engineering constraints** such as 
 
 ---
 
-## 🧩 Engineering Principle
+## 🧠 Engineering Principle
 
 > *Simple code scales.  
 > Clear thinking compounds.  
-> Execution wins interviews.*
+> Execution wins.*
 
+<!-- FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:203A43,100:0F2027&height=70&section=footer" />
 </p>
