@@ -126,6 +126,23 @@ I prioritize **execution over theory** and build projects that reflect **real-wo
 > Execution wins.*
 
 <!-- FOOTER -->
+---
+
+## 🤝 Connect With Me
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:203A43,100:0F2027&height=70&section=footer" />
+  <a href="mailto:mohammedayaz2411@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mohammed-ayaz-2b16062a5">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/__md.ayaz__">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
+
+<p align="center">
+  ⭐ From <a href="https://github.com/mohammedayaz24"><b>Mohammed Ayaz</b></a>
+</p>
+>
