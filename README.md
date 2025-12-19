@@ -126,7 +126,6 @@ I prioritize **execution over theory** and build projects that reflect **real-wo
 > Execution wins.*
 
 <!-- FOOTER -->
----
 
 ## 🤝 Connect With Me
 
@@ -145,4 +144,3 @@ I prioritize **execution over theory** and build projects that reflect **real-wo
 <p align="center">
   ⭐ From <a href="https://github.com/mohammedayaz24"><b>Mohammed Ayaz</b></a>
 </p>
->
