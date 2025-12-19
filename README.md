@@ -17,8 +17,11 @@
 
 ## 👨‍💻 Engineering Profile
 
-I am a **Computer Science Engineering student** focused on **core software engineering fundamentals**—problem solving, clean architecture, and scalable system design.  
-I prioritize **execution over theory** and build projects that reflect **real-world constraints**.
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+
+I am a **Computer Science Engineering student** focused on **core software engineering fundamentals**—problem solving, clean architecture, and scalable system design.
+
+I prioritize **execution over theory** and build projects that reflect **real-world constraints** such as time, scale, and maintainability.
 
 ---
 
