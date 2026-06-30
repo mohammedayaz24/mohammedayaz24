@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2004,100:203A43&height=160&section=header&text=MOHAMMED%20AYAZ&fontSize=40&fontColor=000000" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffff00,100:203A43&height=160&section=header&text=MOHAMMED%20AYAZ&fontSize=40&fontColor=ffffff" />
 </p>
 
 <!-- TYPING ANIMATION -->
