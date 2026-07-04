@@ -157,9 +157,9 @@ Built and led development of workshop registration platforms for live astronomy 
 
 `React Native` `FastAPI` `Transformers`
 
-- Scam detection engine for messages and apps
-- Risk scoring with explainable, human-readable alerts
-- Modular, extensible backend architecture
+- Scam detection engine for messages and apps.
+- Risk scoring with explainable, human-readable alerts.
+- Modular, extensible backend architecture.
 
 </td>
 <td width="50%" valign="top">
