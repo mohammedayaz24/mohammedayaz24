@@ -22,7 +22,7 @@
 
 ## 🧬 About Me
 
-<img align="right" width="360" src="ascii-portrait.png" />
+<img align="right" width="360" src="ascii-portrait-bg.png" />
 
 ```yaml
 name: Mohammed Ayaz
