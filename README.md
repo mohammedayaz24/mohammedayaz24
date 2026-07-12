@@ -33,7 +33,6 @@ focus:
   - Full-Stack Web Development
   - Backend Engineering & System Design
   - Data Structures & Algorithms (Java)
-  - AI-Assisted Application Development
 currently:
   - Preparing for SDE roles across India
   - Leading Student Guidance Cell as President
