@@ -203,7 +203,7 @@ Built and led development of workshop registration platforms for live astronomy 
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=8AB4F8&height=2&section=header" width="100%"/>
 
-## 📫 Let's Connect
+## 📫 Let's Connect...
 
 <div align="center">
 
