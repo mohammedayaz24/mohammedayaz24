@@ -36,7 +36,7 @@ focus:
 currently:
   - Preparing for SDE roles across India
   - Leading Student Guidance Cell as President
-status: Open to Internships, SDE Roles & Collaborations.
+status: Open to Internships, SDE Roles & Collaborations across India.
 ```
 
 I'm a final-year CSE student who prioritizes **execution over theory** — building production-grade applications shaped by real-world constraints like scale, time, and maintainability. My work spans **Python/FastAPI backends**, **MERN & full-stack builds**, and **AI-driven features**, forged through internships, hackathons, and live event deployments handling real registration workflows and payment integrations.
