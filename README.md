@@ -25,18 +25,18 @@
 <img align="right" width="360" src="ascii-portrait-bg.png" />
 
 ```yaml
-name: Mohammed Ayaz
-role: Final-Year Computer Science Engineering Student
-location: Ambur, Tamil Nadu, India
-institution: C. Abdul Hakeem College of Engineering & Technology
-focus:
+Name: Mohammed Ayaz
+Role: Final-Year Computer Science Engineering Student
+Location: Ambur, Tamil Nadu, India
+Institution: C. Abdul Hakeem College of Engineering & Technology
+Focus:
   - Full-Stack Web Development
   - Backend Engineering & System Design
   - Data Structures & Algorithms (Java)
-currently:
+Currently:
   - Preparing for SDE roles across India
   - Leading Student Guidance Cell as President
-status: Open to Internships, SDE Roles & Collaborations across India.
+Status: Open to Internships, SDE Roles & Collaborations across India.
 ```
 
 I'm a final-year CSE student who prioritizes **execution over theory** — building production-grade applications shaped by real-world constraints like scale, time, and maintainability. My work spans **Python/FastAPI backends**, **MERN & full-stack builds**, and **AI-driven features**, forged through internships, hackathons, and live event deployments handling real registration workflows and payment integrations.
