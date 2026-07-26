@@ -56,7 +56,6 @@ timeline
     2024 (Dec) : Member — Student Guidance Cell
     2025 (Apr) : Software Developer — IARRD
     2025 (Jun) : Advisor — Student Guidance Cell
-    2025 (Aug) : Web Developer — ShadowFox
     2026 (Apr) : Software Team Lead — IARRD
     2026 (May) : President — Student Guidance Cell
 ```
