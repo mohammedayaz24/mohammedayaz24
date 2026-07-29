@@ -78,7 +78,7 @@ A student-led, inter-department organization driving student development through
 **Indian Astronomy Rocket & Research Development**
 Software Developer → **Software Team Lead**
 
-Built and led development of workshop registration platforms for live astronomy events, evolving from individual contributor to team leadership.
+Built and led development team of workshop registration platforms for live astronomy events, evolving from individual contributor to team leadership.
 
 </td>
 </tr>
