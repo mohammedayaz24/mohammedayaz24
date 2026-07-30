@@ -168,7 +168,7 @@ Built and led development team of workshop registration platforms for live astro
 
 - Online print order management system
 - Document upload, print configuration & tracking
-- Built for campus and small-business use cases
+- Built for my campus and small-business use cases
 
 </td>
 </tr>
