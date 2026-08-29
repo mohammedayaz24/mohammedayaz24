@@ -189,7 +189,7 @@ Built and led development team of workshop registration platforms for live astro
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=8AB4F8&height=2&section=header" width="100%"/>
 
-## 🧠 Engineering Principle
+## 🧠 Engineering Principle...
 
 <div align="center">
 
@@ -214,5 +214,5 @@ Built and led development team of workshop registration platforms for live astro
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=150&width=100%&section=footer"/>
 
 <div align="center">
-<sub>From <a href="https://github.com/mohammedayaz24"><b>Mohammed Ayaz</b></a> — built with intent.</sub>
+<sub>From <a href="https://github.com/mohammedayaz24"><b>Mohammed Ayaz</b></a> — built with Intent.</sub>
 </div>
