@@ -20,7 +20,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=8AB4F8&height=2&section=header" width="100%"/>
 
-## 🧬 About Me
+## 🧬 About Me:
 
 <img align="right" width="360" src="ascii-portrait-bg.png" />
 
@@ -45,7 +45,7 @@ I'm a final-year CSE student who prioritizes **execution over theory** — build
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=8AB4F8&height=2&section=header" width="100%"/>
 
-## 🕰️ Developer Journey
+## 🕰️ Developer Journey :
 
 <div align="center">
 
@@ -67,7 +67,7 @@ timeline
 <td width="50%" valign="top">
 
 ### 🏛️ Student Guidance Cell
-**2 years 5 months** · Trainee → Member → Advisor → **President**
+**2 years 6 months** · Trainee → Member → Advisor → **President**
 
 A student-led, inter-department organization driving student development through national-level symposiums, workshops, and tech events. Progressed through every tier of leadership before being elected President in May 2026.
 
