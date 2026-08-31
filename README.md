@@ -45,7 +45,7 @@ I'm a final-year CSE student who prioritizes **execution over theory** — build
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=8AB4F8&height=2&section=header" width="100%"/>
 
-## 🕰️ Developer Journey :
+## 🕰️ Developer Journey:
 
 <div align="center">
 
@@ -143,7 +143,7 @@ Built and led development team of workshop registration platforms for live astro
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=8AB4F8&height=2&section=header" width="100%"/>
 
-## 🚀 Selected Projects
+## 🚀 Selected Projects:
 
 <table align="center" width="100%">
 <tr>
