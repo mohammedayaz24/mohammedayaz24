@@ -20,7 +20,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=8AB4F8&height=2&section=header" width="100%"/>
 
-## 🧬 About Me:
+## 🧬 About Me
 
 <img align="right" width="360" src="ascii-portrait-bg.png" />
 
