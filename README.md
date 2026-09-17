@@ -66,7 +66,7 @@ timeline
 <tr>
 <td width="50%" valign="top">
 
-### 🏛️ Student Guidance Cell
+### 🏛️ Student Guidance Cell.
 **2 years 6 months** · Trainee → Member → Advisor → **President**
 
 A student-led, inter-department organization driving student development through national-level symposiums, workshops, and tech events. Progressed through every tier of leadership before being elected President in May 2026.
