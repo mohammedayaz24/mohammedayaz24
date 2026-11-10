@@ -167,7 +167,7 @@ Built and led development team of workshop registration platforms for live astro
 `React` `Firebase`
 
 - Online print order management system
-- Document upload, print configuration & tracking
+- Document upload, print configuration & tracking in real time
 - Built for my campus and small-business use cases
 
 </td>
@@ -195,7 +195,7 @@ Built and led development team of workshop registration platforms for live astro
 
 > *Simple code scales.*
 > *Clear thinking compounds.*
-> *Execution wins.*
+> *Execution always wins.*
 
 </div>
 
