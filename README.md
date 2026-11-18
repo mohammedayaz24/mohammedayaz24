@@ -25,7 +25,7 @@
 <img align="right" width="360" src="ascii-portrait-bg.png" />
 
 ```yaml
-Name: Mohammed Ayaz
+Name: Mohammed Ayaz A
 Role: Final-Year Computer Science Engineering Student
 Location: Ambur, Tamil Nadu, India
 Institution: C. Abdul Hakeem College of Engineering & Technology
